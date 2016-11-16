@@ -8,4 +8,6 @@ In order to work, you should have the following files in the same folder:
 
 Run entertainment_center.py to generate and open the html page.
 
+The fresh_tomatoes.py was provided by Udacity.
+
 
